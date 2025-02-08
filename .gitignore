@@ -26,3 +26,8 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+
+# Firebase gst-api
+/gst-api/node_modules/
+/gst-api/.env
+/gst-api/package-lock.json
